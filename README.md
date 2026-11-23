@@ -1,6 +1,6 @@
-# English Vocabulary Flashcards — 1,500 Common Words in 15 Languages
+# English Vocabulary Flashcards — 1,500 Common Words in 41 Languages
 
-Printable flashcards for the 1,500 most commonly used English words and their translations into 15 languages. The PDFs are in **[`All_15_languages_-_1500_word_flashcards.zip`](All_15_languages_-_1500_word_flashcards.zip)**.
+Printable flashcards for the 1,500 most commonly used English words and their translations into 41 languages: the world's most widely spoken languages, not counting English. The PDFs are in **[`All_41_languages_-_1500_word_flashcards.zip`](All_41_languages_-_1500_word_flashcards.zip)**.
 
 > [!WARNING]
 > **Please read the [limitations](#limitations) before you study with these cards.** The translations have not been checked by native speakers, and they leave out tense and gender.
@@ -11,23 +11,64 @@ The zip holds one PDF per language. Each one is named `Flashcards - <Language> -
 
 | Language | Script | Pronunciation guide |
 |---|---|---|
+| Amharic (አማርኛ) | Ge'ez (Ethiopic) | Yes (romanized) |
 | Arabic (العربية) | Arabic | Yes (romanized) |
+| Bengali (বাংলা) | Bengali | Yes (romanized) |
+| Bhojpuri (भोजपुरी) | Devanagari | Yes (romanized) |
+| Burmese (မြန်မာစာ) | Myanmar | Yes (romanized, with tones) |
+| Cantonese (廣東話, Traditional) | Chinese characters | Yes (Yale) |
 | Chinese, Mandarin (Simplified) | Chinese characters | Yes (pinyin) |
 | French (Français) | Latin | — |
 | German (Deutsch) | Latin | — |
+| Gujarati (ગુજરાતી) | Gujarati | Yes (romanized) |
+| Hausa | Latin | — |
 | Hebrew (עברית) | Hebrew | Yes (romanized) |
 | Hindi (हिन्दी) | Devanagari | Yes (romanized) |
+| Indonesian (Bahasa Indonesia) | Latin | — |
 | Italian (Italiano) | Latin | — |
 | Japanese (日本語) | Japanese | Yes (romaji) |
+| Javanese (Basa Jawa) | Latin | — |
+| Kannada (ಕನ್ನಡ) | Kannada | Yes (romanized) |
 | Korean (한국어) | Hangul | Yes (romanized) |
+| Maithili (मैथिली) | Devanagari | Yes (romanized) |
+| Malayalam (മലയാളം) | Malayalam | Yes (romanized) |
+| Marathi (मराठी) | Devanagari | Yes (romanized) |
+| Nigerian Pidgin (Naijá) | Latin | — |
+| Odia (ଓଡ଼ିଆ) | Odia | Yes (romanized) |
+| Persian (فارسی) | Perso-Arabic | Yes (romanized) |
+| Polish (Polski) | Latin | — |
 | Portuguese (Português) | Latin | — |
+| Punjabi (ਪੰਜਾਬੀ) | Gurmukhi | Yes (romanized) |
 | Russian (Русский) | Cyrillic | Yes (romanized) |
 | Spanish (Español) | Latin | — |
+| Sundanese (Basa Sunda) | Latin | — |
+| Swahili (Kiswahili) | Latin | — |
+| Tagalog / Filipino | Latin | — |
+| Tamil (தமிழ்) | Tamil | Yes (romanized) |
+| Telugu (తెలుగు) | Telugu | Yes (romanized) |
+| Thai (ไทย) | Thai | Yes (romanized, with tones) |
 | Turkish (Türkçe) | Latin | — |
 | Ukrainian (Українська) | Cyrillic | Yes (romanized) |
+| Urdu (اردو) | Perso-Arabic (Nastaliq) | Yes (romanized) |
 | Vietnamese (Tiếng Việt) | Latin | — |
+| Yoruba (Yorùbá) | Latin, with tone marks | — |
 
 Languages that are not written in the Latin alphabet come with a romanized pronunciation guide. Languages that already use the Latin alphabet do not.
+
+How the language list was chosen: it covers the top 40 languages by number of speakers, with a few adjustments. Arabic dialects are covered by the Arabic deck, and Wu Chinese was skipped because it is rarely written. Burmese, Polish, Malayalam, Odia, Sundanese and Maithili were added to fill those places.
+
+### Notes on specific languages
+
+- **Burmese:** tones are marked as low = *a*, high = *à*, creaky = *a̰*, and stopped = *aʔ*.
+- **Malayalam:** a short *ŭ* marks the half-vowel at the end of a word.
+- **Odia:** the final vowel is spoken, so the pronunciation guide keeps it (*samaya*, *loka*).
+- **Cantonese:** written in traditional characters, with Yale romanization.
+- **Punjabi:** written in Gurmukhi script, not the Shahmukhi script used in Pakistan.
+- **Bhojpuri and Maithili:** everyday words are in the language itself, but many formal and technical words use the standard Hindi vocabulary that speakers of these languages share.
+- **Bengali:** the pronunciation guide is approximate.
+- **Tamil:** the guide follows the letters, so *k/g* and *t/d* are written the same way.
+- **Amharic:** doubled consonants are not marked.
+- **Korean:** uses the standard Revised Romanization, which has no accent marks.
 
 ## What's on each card
 
